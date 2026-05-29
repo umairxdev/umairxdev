@@ -40,7 +40,7 @@ AI undergrad who builds things that work. Spent time at **DTS Solution** in Duba
 
 ### `$ cat irl.txt`
 
-- NUTECH, Islamabad → BS AI 
+- NUTECH, Islamabad - BS AI 
 - Islamabad, Pakistan
 
 ---
